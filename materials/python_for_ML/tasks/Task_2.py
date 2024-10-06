@@ -1,4 +1,4 @@
-Encoded_Message="###!!@mocleW EPGTQ!!!6789"
+Encoded_Message="###!!@mocleW EPGTQ!!!678"
 core = Encoded_Message.split('@')[1].split('!')[0]
 print(core)
 word1=core[-7::-1]
