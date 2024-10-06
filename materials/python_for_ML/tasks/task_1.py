@@ -1,4 +1,4 @@
-address='Amit_ml@gmail.edu'
+address='Amit_ml@gmail.com'
 if address.count('@') != 1:
     print("Invalid email")
 else:
