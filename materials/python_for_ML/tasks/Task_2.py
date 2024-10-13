@@ -6,3 +6,4 @@ word2=core[7::1]
 words=[word1,word2]
 Message=" ".join(words)
 print(Message)
+#Good job
