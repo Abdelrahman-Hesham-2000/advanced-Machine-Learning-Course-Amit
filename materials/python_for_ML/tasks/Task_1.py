@@ -34,3 +34,4 @@ elif address.endswith(".edu"):
     print("Educational")
 else:
     print("Other Domain")
+#Perfect---Good job
