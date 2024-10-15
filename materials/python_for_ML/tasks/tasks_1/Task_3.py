@@ -8,3 +8,4 @@ word2=word2.replace("O","U")
 words=[word1,word2]
 Message=" ".join(words)
 print(Message)
+#Good job
